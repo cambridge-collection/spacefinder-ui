@@ -8,31 +8,31 @@ description: >-
   map.
 environment: production
 baseurl: ""
-url: "https://spacefinder.leeds.ac.uk"
+url: "https://cambridge-collection.github.io/spacefinder-2"
 host: "localhost"
-google_analytics: "G-6LHKST5028"
+google_analytics: ""
 photo_dir: "/assets/photos/"
 lang: "en"
 dc:
-  creator: "University of Leeds"
-  dateCreated: "2022-06-06"
-  dateModified: "2022-10-13"
-  publisher: "University of Leeds"
-  spatialCoverage: "University of Leeds campus"
+  creator: "University of Cambridge"
+  dateCreated: "2023-03-03"
+  dateModified: "2022-03-03"
+  publisher: "University of Cambridge"
+  spatialCoverage: "University of Cambridge campus"
   types:
     - "InteractiveResource"
   subjects:
     - "Digital mapping"
     - "College Campuses"
 terms:
-  url: "https://www.leeds.ac.uk/termsandconditions"
+  url: "https://cambridge-collection.github.io/spacefinder-2/#/page/terms"
   text: "Terms &amp; Conditions"
   shorttext: "Terms"
 foi:
-  url: "https://www.leeds.ac.uk/freedom-of-information"
-  text: "Freedom of Information"
+  url: "https://cambridge-collection.github.io/spacefinder-2/#/page/privacy"
+  text: "Privacy"
   shorttext: "FOI"
-copyright: "University of Leeds"
+copyright: "University of Cambridge"
 sass:
   style: compressed
 plugins:
